@@ -1,6 +1,6 @@
 ﻿# EnotesManagementSystem
 
-##Team Members:
+Team Members:
 Cabusas, Franc Rhodnin
 Macarulay, Peter Mark
 Tiu, Joseph Ericson
